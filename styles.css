@@ -68,9 +68,21 @@ label {
 
 .offer-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding-right: 8px;
+}
+
+.popular-description {
+    color: rgb(241, 29, 29);
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.previous-price {
+    text-decoration: line-through;
+    color: grey;
 }
 
 .bottom-section {
@@ -91,6 +103,11 @@ label {
 .free-description {
     color: rgb(240, 42, 42);
     font-weight: bold;
+}
+
+.copyrights {
+    text-align: right;
+    color: grey;
 }
 
 @media screen and (max-width:768px) {
