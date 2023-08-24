@@ -4,6 +4,6 @@
 https://skimbox-add-to-cart.netlify.app/
 
 # Reference Image
-![image](https://github.com/gokulc200/Skimbox-Assignment/assets/121416463/075177b0-483c-457b-a03b-59d660ab1d20)
+![image](https://github.com/gokulc200/Skimbox-Assignment/assets/121416463/dbde007f-542d-4340-a326-736f883bf979)
 
-![image](https://github.com/gokulc200/Skimbox-Assignment/assets/121416463/51e3f1c5-e72f-42d8-ba5a-9ba1d34eb54a)
+<img src="https://res.cloudinary.com/dpeik105q/image/upload/v1692889197/Screenshot_2023-08-24_202550_iphone13minimidnight_portrait_l8r629.png" alt="mypic" style="width:50%; "/>
